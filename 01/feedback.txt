@@ -1,0 +1,13 @@
+# MP1 Feedback
+## Part 1: Comments
+Congratulations --- you've successfully pulled your first feedback file!
+For subsequent MPs (where you actually need to write some code), the returned
+feedback file will contain the results of our attempt to compile and test your
+work, and a breakdown of the score you earned.
+If you have questions about your score, or feel for any reason that our test
+results don't reflect your own, please contact me directly at
+<isadoogh@iit.edu>.
+Regards,
+Iman Sadooghi (your TA)
+## Part 2: Score
+Total: 10 / 10
